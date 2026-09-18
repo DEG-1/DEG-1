@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="630" viewBox="0 0 900 630" role="img" aria-labelledby="t">
+  <title id="t">DEGI, desarrollador de software</title>
+  <style>
+    text { font-family: 'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif; fill: #ffffff; }
+    .nombre { font-size: 34px; font-weight: 600; letter-spacing: 1px; }
+    .sub { font-size: 15px; fill: #a3a3a3; }
+    .h { font-size: 12px; font-weight: 600; letter-spacing: 2.5px; fill: #8a8a8a; }
+    .p { font-size: 15px; fill: #e8e8e8; }
+    .guion { font-size: 15px; fill: #8a8a8a; }
+  </style>
+  <rect width="900" height="630" rx="10" fill="#000000"/>
+
+  <text class="nombre" x="56" y="84">DEGI</text>
+  <text class="sub" x="56" y="116">Desarrollador de software   ·   Pasto, Nariño, Colombia</text>
+  <line x1="56" y1="144" x2="844" y2="144" stroke="#2a2a2a"/>
+
+  <text class="h" x="56" y="184">PERFIL</text>
+  <text class="p" x="56" y="212">Desarrollador de software con experiencia en el diseño y la construcción de sistemas completos,</text>
+  <text class="p" x="56" y="236">desde la arquitectura y el backend hasta el frontend y la infraestructura. Trabajo en proyectos</text>
+  <text class="p" x="56" y="260">donde la confiabilidad, la calidad del código y la mantenibilidad a largo plazo son prioridad.</text>
+
+  <text class="h" x="56" y="304">ÁREAS DE TRABAJO</text>
+  <text class="guion" x="56" y="332">—</text>
+  <text class="p" x="84" y="332">Desarrollo de aplicaciones web de punta a punta: arquitectura, backend, frontend e infraestructura.</text>
+  <text class="guion" x="56" y="360">—</text>
+  <text class="p" x="84" y="360">Orquestación de agentes de inteligencia artificial aplicados al desarrollo de software,</text>
+  <text class="p" x="84" y="384">con planeación, revisión e integración supervisadas por una persona.</text>
+  <text class="guion" x="56" y="412">—</text>
+  <text class="p" x="84" y="412">Automatización de procesos y herramientas internas para equipos de trabajo.</text>
+
+  <text class="h" x="56" y="456">FORMA DE TRABAJO</text>
+  <text class="p" x="56" y="484">Las decisiones técnicas se documentan antes de implementarse. Cada cambio pasa por revisión,</text>
+  <text class="p" x="56" y="508">pruebas automatizadas y controles de calidad antes de integrarse.</text>
+
+  <text class="h" x="56" y="552">TECNOLOGÍAS</text>
+  <text class="p" x="56" y="580">Python   ·   Django   ·   PostgreSQL   ·   TypeScript   ·   Rust   ·   Docker   ·   Cloudflare   ·   GitHub Actions</text>
+</svg>
